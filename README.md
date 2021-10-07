@@ -1,6 +1,6 @@
 # arte840
 
- <img src="https://github.com/leeseomin/arte840/blob/main/out/out.png" width="1200">
+ <img src="https://github.com/leeseomin/arte840/blob/main/out.png" width="1200">
 
 
 ### Dependency install on ubuntu 20.04 
@@ -67,7 +67,8 @@ bash main.sh
 
 
 ### output image1
- <img src="https://github.com/leeseomin/arte840/blob/main/out/out.png" width="1200">
+ <img src="https://github.com/leeseomin/arte840/blob/main/out.png" width="1200">
+
  
 
 
